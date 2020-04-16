@@ -1,0 +1,39 @@
+
+
+#top{
+  font-size: 40px;
+  color:red
+}
+#middle{
+  font-size: 30px;
+    color:black
+}
+#bottom{
+  font-size:20px;
+    color:blue
+}
+.name{
+  font-weight: bold;
+  color:green;
+}
+
+
+table{
+  color:brown;
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin: 50px;
+  width: 50%;
+  text-align:center;
+}
+th{
+  border: 1px solid black;
+  background-color: pink;
+  padding: 5px;
+
+}
+td{
+  border: 1px solid black;
+    padding: 5px;
+
+}
