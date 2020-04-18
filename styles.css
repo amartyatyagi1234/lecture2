@@ -10,12 +10,21 @@
 }
 #bottom{
   font-size:20px;
-    color:blue
+    color:teal
 }
 .name{
   font-weight: bold;
   color:green;
 }
+.paragraph{ font-weight: bold;
+}
+h1{
+  color:teal;
+}
+p{
+  font-size: 30px;
+}
+
 
 
 table{
